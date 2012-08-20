@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaContaEAgencia {
 	public static void main(String[] args) {
 		// Criando alguns objetos
@@ -16,6 +17,7 @@ class TestaContaEAgencia {
 		System.out.println(c.saldo);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*

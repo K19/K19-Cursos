@@ -1,3 +1,5 @@
+/* VERSAO */
+/*
 class TestaConta {
 	public static void main(String[] args) {
 		Conta c1 = new Conta();
@@ -19,3 +21,4 @@ class TestaConta {
 		System.out.println(c2.limite);
 	}
 }
+*/

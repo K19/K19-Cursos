@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import java.util.Scanner;
 
 class TestaFuncionario {
@@ -50,3 +52,4 @@ class TestaFuncionario {
 		}
 	}
 }
+*/

@@ -1,9 +1,11 @@
 /* VERSAO 1 */
+/*
 class Conta {
 	int numero;
 	double saldo;
 	double limite;
 }
+*/
 
 /* VERSAO 2 */
 /*

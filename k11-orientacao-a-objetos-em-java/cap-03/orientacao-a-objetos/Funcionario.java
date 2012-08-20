@@ -1,8 +1,10 @@
 /* VERSAO 1 */
+/*
 class Funcionario {
 	String nome;
 	double salario;
 }
+*/
 
 /* VERSAO 2 */
 /*
@@ -15,10 +17,11 @@ class Funcionario {
 	}
 	
 	String consultaDados(){
-		return "Nome: " + this.nome + "\nSal·rio: " + this.salario; 
+		return "Nome: " + this.nome + "\nSal√°rio: " + this.salario; 
 	}	
 }
 */
+
 /* VERSAO 3 */
 /*
 class Funcionario {
@@ -30,7 +33,7 @@ class Funcionario {
 	}
 	
 	String consultaDados(){
-		return "Nome: " + this.nome + "\nSal·rio: " + this.salario; 
+		return "Nome: " + this.nome + "\nSal√°rio: " + this.salario; 
 	}
 }
 */

@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/* 
 class ImprimePadrao5 {
 	public static void main(String[] args) {
 		int penultimo = 0;
@@ -15,3 +17,4 @@ class ImprimePadrao5 {
 		}
 	}
 }
+*/

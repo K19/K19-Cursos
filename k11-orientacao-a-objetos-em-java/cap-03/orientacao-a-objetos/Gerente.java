@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class Gerente {
 	String nome;
 	double salario;
@@ -10,3 +12,4 @@ class Gerente {
 		this.salario += this.salario * taxa;
 	}
 }
+*/

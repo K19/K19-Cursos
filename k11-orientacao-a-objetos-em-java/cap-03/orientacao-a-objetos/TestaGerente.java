@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaGerente {
 	public static void main(String[] args) {
 		Gerente g = new Gerente();
@@ -16,3 +18,4 @@ class TestaGerente {
 		System.out.println("Salário: " + g.salario);
 	}
 }
+*/

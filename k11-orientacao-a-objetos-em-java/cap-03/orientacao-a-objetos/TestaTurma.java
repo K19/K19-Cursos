@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaTurma {
 		public static void main(String[] aseries) {
 		Turma t1 = new Turma();
@@ -23,3 +25,4 @@ class TestaTurma {
 		System.out.println(t2.tipoDeEnsino);
 	}
 }
+*/

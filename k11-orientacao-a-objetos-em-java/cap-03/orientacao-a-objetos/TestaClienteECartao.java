@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaClienteECartao {
 	public static void main(String[] args) {
 		// Criando alguns objetos
@@ -16,6 +17,7 @@ class TestaClienteECartao {
 		System.out.println(cdc.cliente.nome);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*

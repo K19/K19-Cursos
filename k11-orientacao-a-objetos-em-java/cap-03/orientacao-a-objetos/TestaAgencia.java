@@ -1,3 +1,5 @@
+/* VERSAO 1*/
+/*
 class TestaAgencia {
 	public static void main(String[] args) {
 		Agencia a1 = new Agencia();
@@ -11,3 +13,4 @@ class TestaAgencia {
 		System.out.println(a2.numero);
 	}
 }
+*/

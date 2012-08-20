@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaMetodosConta {
 	public static void main(String[] args) {
 		Conta c = new Conta();
@@ -13,6 +14,7 @@ class TestaMetodosConta {
 		System.out.println("SALDO DISPONÍVEL: " + saldoDisponivel);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*

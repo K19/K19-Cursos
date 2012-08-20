@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaCliente {
 	public static void main(String[] args) {
 		Cliente c1 = new Cliente();
@@ -15,3 +17,4 @@ class TestaCliente {
 		System.out.println(c2.codigo);
  	}
 }
+*/

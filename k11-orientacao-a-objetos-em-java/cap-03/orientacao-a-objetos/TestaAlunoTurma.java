@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaAlunoTurma {
 	public static void main(String[] args) {
 		Aluno a = new Aluno();
@@ -12,3 +14,4 @@ class TestaAlunoTurma {
 		System.out.println(a.turma.periodo);
 	}
 }
+*/

@@ -1,3 +1,6 @@
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public class ControleDePonto {
 	
 	public void registraEntrada(Funcionario f) {

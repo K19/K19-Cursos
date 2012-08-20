@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaCartaoDeCredito {
 	public static void main(String[] args) {
 		CartaoDeCredito cdc1 = new CartaoDeCredito();
@@ -16,6 +17,7 @@ class TestaCartaoDeCredito {
 		System.out.println(cdc2.dataDeValidade);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*

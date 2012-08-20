@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class ImprimePadrao4 {
 	public static void main(String[] args) {
 		String linha = "*";
@@ -12,3 +14,4 @@ class ImprimePadrao4 {
 		}
 	}
 }
+*/

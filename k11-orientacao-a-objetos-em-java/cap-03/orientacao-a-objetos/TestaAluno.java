@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaAluno {
 	public static void main(String[] args) {
 		Aluno a1 = new Aluno();
@@ -20,3 +22,4 @@ class TestaAluno {
 
 	}
 }
+*/

@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaValoresPadrao {
 	public static void main(String[] args) {
 		Conta c = new Conta();
@@ -8,6 +9,7 @@ class TestaValoresPadrao {
 		System.out.println(c.limite);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*

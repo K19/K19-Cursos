@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/* 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Scanner;
@@ -64,3 +66,4 @@ class Main{
 		System.out.println("Operação finalizada");
 	}
 }
+*/

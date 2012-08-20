@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaMetodoTransfere {
 	public static void main(String[] args) {
 		Agencia a = new Agencia(1234);
@@ -14,3 +16,4 @@ class TestaMetodoTransfere {
 		System.out.println(destino.saldo);
 	}
 }
+*/

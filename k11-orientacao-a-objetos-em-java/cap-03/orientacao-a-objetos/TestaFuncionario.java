@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 class TestaFuncionario {
 	public static void main(String[] args) {
 		Funcionario f1 = new Funcionario();
@@ -20,6 +21,7 @@ class TestaFuncionario {
 		System.out.println(f2.salario);
 	}
 }
+*/
 
 /* VERSAO 2 */
 /*
