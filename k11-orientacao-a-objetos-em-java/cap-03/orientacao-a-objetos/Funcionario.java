@@ -1,7 +1,6 @@
 /* VERSAO 1 */
 class Funcionario {
 	String nome;
-	String cargo;
 	double salario;
 }
 
@@ -9,7 +8,6 @@ class Funcionario {
 /*
 class Funcionario {
 	String nome;
-	String cargo;
 	double salario;
 	
 	void aumentaSalario(double valor){
@@ -17,9 +15,22 @@ class Funcionario {
 	}
 	
 	String consultaDados(){
-		return "Nome: " + this.nome + 
-				"\nCargo: " + this.cargo +
-				"\nSal√°rio: " + this.salario;
+		return "Nome: " + this.nome + "\nSal·rio: " + this.salario; 
 	}	
+}
+*/
+/* VERSAO 3 */
+/*
+class Funcionario {
+	String nome;
+	double salario = 1000.0;
+	
+	void aumentaSalario(double valor){
+		this.salario += valor;
+	}
+	
+	String consultaDados(){
+		return "Nome: " + this.nome + "\nSal·rio: " + this.salario; 
+	}
 }
 */
