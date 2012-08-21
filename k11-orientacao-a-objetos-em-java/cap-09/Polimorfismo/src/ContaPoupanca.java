@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 public class ContaPoupanca extends Conta {
 	private int diaDoAniversario;
 
@@ -9,6 +10,5 @@ public class ContaPoupanca extends Conta {
 	public void setDiaDoAniversario(int diaDoAniversario) {
 		this.diaDoAniversario = diaDoAniversario;
 	}	
-	
-	
 }
+*/

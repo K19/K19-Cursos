@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 class TestaFuncionarios {
 	public static void main(String[] args) {
 		Gerente g = new Gerente();
@@ -19,22 +20,24 @@ class TestaFuncionarios {
 
 		System.out.println("GERENTE");
 		System.out.println("Nome: " + g.getNome());
-		System.out.println("Salário: " + g.getSalario());
-		System.out.println("Usuário: " + g.getUsuario());
+		System.out.println("SalÃ¡rio: " + g.getSalario());
+		System.out.println("UsuÃ¡rio: " + g.getUsuario());
 		System.out.println("Senha: " + g.getSenha());
 
 		System.out.println("TELEFONISTA");
 		System.out.println("Nome: " + t.getNome());
-		System.out.println("Salário: " + t.getSalario());
-		System.out.println("Estacao de trabalho: " + t.getEstacaoDeTrabalho());
+		System.out.println("SalÃ¡rio: " + t.getSalario());
+		System.out.println("EstaÃ§Ã£o de trabalho: " + t.getEstacaoDeTrabalho());
 
 		System.out.println("SECRETARIA");
 		System.out.println("Nome: " + s.getNome());
-		System.out.println("Salário: " + s.getSalario());
+		System.out.println("SalÃ¡rio: " + s.getSalario());
 		System.out.println("Ramal: " + s.getRamal());
 	}
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class TestaFuncionarios {
 	public static void main(String[] args) {
@@ -56,26 +59,27 @@ class TestaFuncionarios {
 	
 		System.out.println("GERENTE");
 		System.out.println("Nome: " + g.getNome());
-		System.out.println("Salário: " + g.getSalario());
-		System.out.println("Usuário: " + g.getUsuario());
+		System.out.println("SalÃ¡rio: " + g.getSalario());
+		System.out.println("UsuÃ¡rio: " + g.getUsuario());
 		System.out.println("Senha: " + g.getSenha());
-		System.out.println("Bonificação: " + g.calculaBonificacao());
+		System.out.println("BonificaÃ§Ã£o: " + g.calculaBonificacao());
 	
 		System.out.println("TELEFONISTA");
 		System.out.println("Nome: " + t.getNome());
-		System.out.println("Salário: " + t.getSalario());
+		System.out.println("SalÃ¡rio: " + t.getSalario());
 		System.out.println("Estacao de trabalho: " + t.getEstacaoDeTrabalho());
-		System.out.println("Bonificação: " + t.calculaBonificacao());
+		System.out.println("BonificaÃ§Ã£o: " + t.calculaBonificacao());
 	
 		System.out.println("SECRETARIA");
 		System.out.println("Nome: " + s.getNome());
-		System.out.println("Salário: " + s.getSalario());
+		System.out.println("SalÃ¡rio: " + s.getSalario());
 		System.out.println("Ramal: " + s.getRamal());
-		System.out.println("Bonificação: " + s.calculaBonificacao());
+		System.out.println("BonificaÃ§Ã£o: " + s.calculaBonificacao());
 	}
 }
 */
-/*VERSÃO 3*/
+
+/* VERSAO 3 */
 /*
  class TestaFuncionarios {
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public class Funcionario {
 	private int codigo;
 
@@ -9,3 +11,4 @@ public class Funcionario {
 		this.codigo = codigo;
 	}
 }
+*/

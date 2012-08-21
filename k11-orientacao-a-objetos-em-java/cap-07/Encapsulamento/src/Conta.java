@@ -1,8 +1,11 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 class Conta {
 	private double limite;
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class Conta {
 	private double limite;

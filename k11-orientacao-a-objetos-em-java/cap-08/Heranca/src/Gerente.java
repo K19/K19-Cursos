@@ -1,4 +1,5 @@
-/*VERS√O 1*/
+/* VERSAO 1 */
+/*
 class Gerente extends Funcionario {
 	private String usuario;
 	private String senha;
@@ -16,7 +17,9 @@ class Gerente extends Funcionario {
 		this.senha = senha;
 	}
 }
-/*VERS√O 2*/
+*/
+
+/* VERSAO 2 */
 /*
 public class Gerente extends Funcionario {
 	private String usuario;
@@ -40,7 +43,8 @@ public class Gerente extends Funcionario {
 	}
 }
 */
-/*VERS√O 3*/
+
+/* VERSAO 3 */
 /*
 class Gerente extends Funcionario {
 	private String usuario;
@@ -52,7 +56,7 @@ class Gerente extends Funcionario {
 	
 	public void mostraDados() {
 		super.mostraDados();
-		System.out.println("Usu·rio: " + this.usuario);
+		System.out.println("Usu√°rio: " + this.usuario);
 		System.out.println("Senha: " + this.senha);
 	}
 	public String getUsuario() {
@@ -67,7 +71,6 @@ class Gerente extends Funcionario {
 	public void setSenha(String senha) {
 		this.senha = senha;
 	}
-	
 }
 */
 

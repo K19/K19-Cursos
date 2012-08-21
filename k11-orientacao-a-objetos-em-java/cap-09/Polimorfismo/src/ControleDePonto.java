@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -15,7 +17,8 @@ public class ControleDePonto {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 		Date agora = new Date();
 
-		System.out.println("SAÍDA: " + f.getCodigo());
+		System.out.println("SAIDA: " + f.getCodigo());
 		System.out.println("DATA: "  + sdf.format(agora));
 	}
 }
+*/

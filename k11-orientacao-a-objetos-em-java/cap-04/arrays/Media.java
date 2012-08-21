@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class Media {
 	public static void main(String[] args) {
 		double soma = 0;
@@ -8,3 +10,4 @@ class Media {
 		System.out.println(soma/args.length);
 	}
 }
+*/

@@ -1,4 +1,5 @@
-/*VERS√O 1*/
+/* VERSAO 1 */
+/*
 public class Funcionario {
 	private String nome;
 	private double salario;
@@ -19,7 +20,9 @@ public class Funcionario {
 		this.salario = salario;
 	}
 }
-/*VERS√O 2*/
+*/
+
+/* VERSAO 2 */
 /*
 public class Funcionario {
 	private String nome;
@@ -46,7 +49,8 @@ public class Funcionario {
 	}
 }
 */
-/*VERS√O 3*/
+
+/* VERSAO 3 */
 /*
 public class Funcionario {
 	private String nome;
@@ -58,8 +62,8 @@ public class Funcionario {
 	
 	public void mostraDados() {
 		System.out.println("Nome: " + this.nome);
-		System.out.println("Sal·rio: " + this.salario);
-		System.out.println("BonificaÁ„o: " + this.calculaBonificacao()); 
+		System.out.println("Sal√°rio: " + this.salario);
+		System.out.println("Bonifica√ß√£o: " + this.calculaBonificacao()); 
 	}
 	
 	public String getNome() {

@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public interface Conta {
 	void deposita(double valor);
 
@@ -5,3 +7,4 @@ public interface Conta {
 
 	double getSaldo();
 }
+*/

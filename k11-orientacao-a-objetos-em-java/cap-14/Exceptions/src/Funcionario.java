@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public class Funcionario {
 	private double salario;
 
@@ -16,3 +18,4 @@ public class Funcionario {
 		this.salario = salario;
 	}
 }
+*/

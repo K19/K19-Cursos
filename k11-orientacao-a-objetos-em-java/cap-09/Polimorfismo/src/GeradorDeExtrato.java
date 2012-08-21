@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -11,3 +13,4 @@ public class GeradorDeExtrato {
 		System.out.println("SALDO: "  + c.getSaldo());	
 	}
 }
+*/

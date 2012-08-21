@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 class Teste {
 	public static void main(String[] args) {
 		Funcionario f = new Funcionario();
@@ -10,7 +11,9 @@ class Teste {
 		System.out.println(f.salario);
 	}
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class Teste {
 	public static void main(String[] args) {

@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 class ContaCorrente extends Conta {
 	private double limite;
 
@@ -10,4 +11,4 @@ class ContaCorrente extends Conta {
 		this.limite = limite;
 	}
 }
-/*VERSÃO 2*/
+*/

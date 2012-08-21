@@ -1,9 +1,12 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 public class Funcionario {
 	double salario;
 	String nome;
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class Funcionario {
 	private double salario;
@@ -11,7 +14,7 @@ class Funcionario {
 }
 */
 
-/*VERSÃO 3*/
+/* VERSAO 3 */
 /*
 class Funcionario {
 	private double salario;

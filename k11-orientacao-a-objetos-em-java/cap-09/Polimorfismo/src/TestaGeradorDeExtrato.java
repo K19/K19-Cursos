@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public class TestaGeradorDeExtrato {
 
 	public static void main(String[] args) {
@@ -13,3 +15,4 @@ public class TestaGeradorDeExtrato {
 		gerador.imprimeExtratoBasico(cc);		
 	}
 }
+*/

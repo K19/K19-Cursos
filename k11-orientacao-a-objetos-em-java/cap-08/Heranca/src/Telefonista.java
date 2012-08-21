@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 public class Telefonista extends Funcionario{
 	private int estacaoDeTrabalho;
 
@@ -10,14 +11,16 @@ public class Telefonista extends Funcionario{
 		this.estacaoDeTrabalho = estacaoDeTrabalho;
 	}	
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class Telefonista extends Funcionario {
 	private int estacaoDeTrabalho;
 
 	public void mostraDados() {
 		super.mostraDados();
-		System.out.println("Estação de Trabalho " + this.estacaoDeTrabalho); 
+		System.out.println("EstaÃ§Ã£o de Trabalho " + this.estacaoDeTrabalho); 
 	}
 
 	public int getEstacaoDeTrabalho() {
@@ -28,4 +31,4 @@ class Telefonista extends Funcionario {
 		this.estacaoDeTrabalho = estacaoDeTrabalho;
 	}
 }
-*/
+*/ 

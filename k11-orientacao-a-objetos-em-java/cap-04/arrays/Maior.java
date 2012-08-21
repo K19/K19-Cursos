@@ -1,3 +1,5 @@
+/* VERSAO 1*/
+/*
 class Maior {
 	public static void main(String[] args) {
 		double maior =  Double.parseDouble(args[0]);
@@ -10,3 +12,4 @@ class Maior {
 		System.out.println(maior);
 	}
 }
+*/

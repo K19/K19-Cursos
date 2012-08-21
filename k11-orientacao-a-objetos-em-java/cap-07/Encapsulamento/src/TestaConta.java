@@ -1,4 +1,4 @@
-/*VERSÃO 1*/
+/*VERSAO 1*/
 /*
 class TestaConta {
 	public static void main(String[] args) {

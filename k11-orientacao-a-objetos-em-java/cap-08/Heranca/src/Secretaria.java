@@ -1,4 +1,5 @@
-/*VERSÃO 1*/
+/* VERSAO 1 */
+/*
 public class Secretaria extends Funcionario{
 	private int ramal;
 
@@ -10,7 +11,9 @@ public class Secretaria extends Funcionario{
 		this.ramal = ramal;
 	}
 }
-/*VERSÃO 2*/
+*/
+
+/* VERSAO 2 */
 /*
 class Secretaria extends Funcionario {
 	private int ramal;

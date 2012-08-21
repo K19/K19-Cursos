@@ -1,5 +1,5 @@
-/*VERSAO 1*/
-
+/* VERSAO 1 */
+/*
 public class Conta {
 	private double saldo;
 
@@ -11,8 +11,9 @@ public class Conta {
 		this.saldo = saldo;
 	}
 }
+*/
 
-/* VERSAO 2*/
+/* VERSAO 2 */
 /*
 abstract public class Conta {
 	private double saldo;
@@ -24,5 +25,22 @@ abstract public class Conta {
 	public void setSaldo(double saldo) {
 		this.saldo = saldo;
 	}
+}
+*/
+
+/* VERSAO 3 */
+/*
+abstract class Conta {
+	private double saldo;
+
+	public double getSaldo() {
+		return saldo;
+	}
+	
+	public void setSaldo(double saldo) {
+		this.saldo = saldo;
+	}
+	
+	public abstract void imprimeExtratoDetalhado();
 }
 */

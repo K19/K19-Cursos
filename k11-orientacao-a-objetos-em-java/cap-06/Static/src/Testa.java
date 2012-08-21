@@ -1,4 +1,5 @@
 /* VERSAO 1 */
+/*
 public class Testa {
 	public static void main(String[] args) {
 		System.out.println("Contador: " + Conta.contador);
@@ -8,8 +9,9 @@ public class Testa {
 		System.out.println("Contador: " + Conta.contador);
 	}
 }
+*/
 
-/* VERSAO 2*/
+/* VERSAO 2 */
 /*
 public class Testa {
 	public static void main(String[] args) {
@@ -27,7 +29,8 @@ public class Testa {
 	}
 }
 */
-/* VERSAO 3*/
+
+/* VERSAO 3 */
 /*
 public class Testa {
 	public static void main(String[] args) {
@@ -42,7 +45,7 @@ public class Testa {
 
 		System.out.println("Contador: " + Conta.contador);
 
-[*\listingsHighlight*]		Conta.zeraContador();
+		Conta.zeraContador();
 	}
 }
 */

@@ -1,3 +1,5 @@
+/* VERSAO 1*/
+/*
 class Ordena {
 	public static void main(String[] args) {
 		java.util.Arrays.sort(args);
@@ -7,3 +9,4 @@ class Ordena {
 		}
 	}
 }
+*/

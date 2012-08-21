@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public class Telefonista extends Funcionario {
 	private int ramal;
 
@@ -9,3 +11,4 @@ public class Telefonista extends Funcionario {
 		this.ramal = ramal;
 	}	
 }
+*/

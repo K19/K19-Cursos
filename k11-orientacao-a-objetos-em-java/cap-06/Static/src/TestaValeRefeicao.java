@@ -1,4 +1,5 @@
-/*VERSAO 1*/
+/* VERSAO 1 */
+/*
 class TestaValeRefeicao {
 	public static void main(String[] args) {
 		System.out.println(Funcionario.valeRefeicaoDiario);
@@ -6,8 +7,9 @@ class TestaValeRefeicao {
 		System.out.println(Funcionario.valeRefeicaoDiario);
 	}
 }
+*/
 
-/*VERSAO 2*/
+/* VERSAO 2 */
 /*
 class TestaValeRefeicao {
 	public static void main(String[] args) {

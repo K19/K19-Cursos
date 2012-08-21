@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 public class TestaControleDePonto {
 	public static void main(String[] args) {
 		Gerente g = new Gerente();
@@ -18,3 +20,4 @@ public class TestaControleDePonto {
 		cdp.registraSaida(t);
 	}
 }
+*/
