@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import java.io.PrintStream;
 
 public class Emissor {
@@ -12,3 +14,4 @@ public class Emissor {
 		this.saida.println(mensagem);
 	}
 }
+*/

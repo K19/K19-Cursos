@@ -1,3 +1,5 @@
+/* VERSAO 1*/
+/*
 public class TestaPoolDeStrings {
 
 	public static void main(String[] args) {
@@ -18,3 +20,4 @@ public class TestaPoolDeStrings {
 		System.out.println(nome3.equals(nome4));
 	}
 }
+*/

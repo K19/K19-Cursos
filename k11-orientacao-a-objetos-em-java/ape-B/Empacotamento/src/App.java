@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import javax.swing.JFrame;
 
 public class App {
@@ -8,3 +10,4 @@ public class App {
 		janela.setVisible(true);
 	}
 }
+*/

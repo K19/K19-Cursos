@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -34,3 +36,4 @@ public class Teste {
 		frame.setVisible(true);
 	}
 }
+*/

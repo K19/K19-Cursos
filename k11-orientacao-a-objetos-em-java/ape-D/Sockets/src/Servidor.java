@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 import java.io.IOException;
 import java.io.PrintStream;
 import java.net.ServerSocket;
@@ -14,3 +16,4 @@ public class Servidor {
 		saida.println("Você se conectou ao servidor da K19!");
 	}
 }
+*/
