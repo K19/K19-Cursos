@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaVariavelPeso {
 	public static void main(String[] args) {
 		double peso;
@@ -7,3 +9,4 @@ class TestaVariavelPeso {
 		System.out.println(peso);
 	}
 }
+*/

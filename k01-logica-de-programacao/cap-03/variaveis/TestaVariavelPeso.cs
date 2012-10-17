@@ -1,3 +1,5 @@
+/* VERSAO 1 */
+/*
 class TestaVariavelPeso 
 {
 	static void Main() 
@@ -9,3 +11,4 @@ class TestaVariavelPeso
 		System.Console.WriteLine(peso);
 	}
 }
+*/
