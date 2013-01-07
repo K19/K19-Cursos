@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Exercício - Formulário</title>
+	</head>
+	<body>
+		<form action="teste.html" method="get">
+			<input type="hidden" name="hash" value="4w587nt3" />
+		
+			<div>
+				<label for="nome">Nome: </label>
+				<input type="text" id="nome" name="nome" />
+			</div>
+	
+			<div>
+				<label for="sobrenome"> Sobrenome: </label>
+				<input type="text" id="sobrenome" name="sobrenome" />
+			</div>
+			
+			<div>
+				<label for="senha">Senha:</label>
+				<input type="password" id="senha" name="senha" />
+			</div>
+			
+			<div>
+				<label for="foto">Escolha uma foto:</label>
+				<input type="file" id="foto" name="foto" />
+			</div>
+			
+			<div>
+				Sexo: 
+				<input type="radio" name="sexo" id="sexo-m" />
+				<label for="sexo-m">Masculino</label>
+				<input type="radio" name="sexo" id="sexo-f" />
+				<label for="sexo-f">Feminino</label>
+			</div>
+	
+			<div>
+				<label for="estado">Selecione um Estado:</label>
+				<select id="estado" name="estado">
+					<option value="sp">São Paulo</option>
+					<option value="rj">Rio de Janeiro</option>
+					<option value="mg">Minas Gerais</option>
+					<option value="es">Espírito Santo</option>
+					<option value="pr">Paraná</option>
+				</select>
+			</div>
+			
+			<div>
+				Escolha um ou mais meios de comunicação: 
+				<input type="checkbox" name="comunicacao[]" id="comunicacao-musica" />
+				<label for="comunicacao-musica">Música</label>
+				<input type="checkbox" name="comunicacao[]" id="comunicacao-televisao" />
+				<label for="comunicacao-televisao">Televisão</label>
+				<input type="checkbox" name="comunicacao[]" id="comunicacao-radio" />
+				<label for="comunicacao-radio">Rádio</label>
+			</div>
+			
+			<div>
+				<label for="obs">Observações:</label>
+				<textarea id="obs" name="observacoes"></textarea>
+			</div>	
+	
+			<div>
+				<input type="submit" value="Enviar" />
+				<input type="reset" value="Desfazer alterações" />
+			</div>
+		</form>
+	</body>
+</html>

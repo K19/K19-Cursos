@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+	</head>
+	<body>
+
+		<h1> K19 treinamentos </h1>
+		<div>
+			<ul>
+				<li> K00 - Formação Básica </li>
+				<li> K10 - Formação Desenvolvedor Java </li>
+				<li> K20 - Formação Desenvolvedor Java Avançado </li>
+				<li> K30 - Formação Desenvolvedor .NET </li>
+				<li> K40 - Formação Desenvolvedor Android </li>
+			</ul>
+		</div>
+		<div>
+			<button id="mostrar"Mostrar</button>
+			<button id="ocultar">Ocultar</button>
+		</div>
+		<script>
+			$("#mostrar").click(function(){ $("li").show("slow");});
+			$("#ocultar").click(function(){ $("li").hide("slow");});
+		</script>
+	</body>
+</html>
