@@ -1,0 +1,105 @@
+<!-- VERSÃO 1 -->
+<!-- 
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+	</head>
+	<body>
+
+		<h1> Formações K19 </h1>
+		<div>
+			<ul>
+				<li> K00 - Formação Básica </li>
+				<li> K10 - Formação Desenvolvedor Java </li>
+				<li> K20 - Formação Desenvolvedor Java Avançado </li>
+				<li> K30 - Formação Desenvolvedor .NET </li>
+				<li> K40 - Formação Desenvolvedor Android </li>
+			</ul>
+		</div>
+	</body>
+</html>
+ -->
+ 
+ <!-- VERSÃO 2 -->
+<!-- 
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+	</head>
+	<body>
+		<h1> Formações K19 </h1>
+		<div>
+			<ul>
+				<li> K00 - Formação Básica </li>
+				<li> K10 - Formação Desenvolvedor Java </li>
+				<li> K20 - Formação Desenvolvedor Java Avançado </li>
+				<li> K30 - Formação Desenvolvedor .NET </li>
+				<li> K40 - Formação Desenvolvedor Android </li>
+			</ul>
+		</div>
+[*\listingsHighlight*]	<script>
+[*\listingsHighlight*]	$('li').click(function(){ alert("Elemento li clicado:
+[*\listingsHighlight*]	"+$(this).text());});
+[*\listingsHighlight*]  </script>
+	</body>
+</html>
+ -->
+ 
+ <!-- VERSÃO 3 -->
+<!-- 
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+	</head>
+	<body>
+
+		<h1> Formações K19 </h1>
+		<div>
+			<ul>
+				<li> K00 - Formação Básica </li>
+				<li> K10 - Formação Desenvolvedor Java </li>
+				<li> K20 - Formação Desenvolvedor Java Avançado </li>
+				<li> K30 - Formação Desenvolvedor .NET </li>
+				<li> K40 - Formação Desenvolvedor Android </li>
+			</ul>
+		</div>
+		<script>
+[*\listingsHighlight*]	$('li').dbclick(function(){ alert("Elemento clicado
+[*\listingsHighlight*]	2x:"+$(this).text());}); 
+		</script>
+	</body>
+</html>
+ -->
+ 
+ <!-- VERSÃO 4 -->
+<!-- 
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://code.jquery.com/jquery-latest.js"></script>
+	</head>
+	<body>
+
+		<h1> Formações K19 </h1>
+		<div>	
+			<label for="formacoes"> Selecione uma formação:</label>
+			<select name="formacoes" id="formacoes">
+				<option>----</option>		
+			<option value="K00"> K00 - Formação Básica</option>
+			<option value="K10"> K10 - Formação Desenvolvedor Java </option>
+			<option value="K20"> K20 - Formação Desenvolvedor Java Avançado </option>
+			<option value="K30"> K30 - Formação Desenvolvedor .NET </option>
+			<option value="K40"> K40 - Formação Desenvolvedor Android </option>
+			</select>
+		</div>
+[*\listingsHighlight*]	<script>
+[*\listingsHighlight*]		$('#formacoes').change(function(){
+[*\listingsHighlight*]			 alert("Formação selecionado: "+$("#formacoes
+[*\listingsHighlight*]			 option:selected").text()); });
+[*\listingsHighlight*]	</script>
+	</body>
+</html>
+ -->
